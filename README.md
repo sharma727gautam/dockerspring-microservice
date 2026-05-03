@@ -1,11 +1,16 @@
 # dockerspring-microservice
 
-This project is a hands-on journey to build a Dockerized Java (Spring Boot) application with MySQL.
+A containerized Java (Spring Boot) application with MySQL, built using Docker.
 
-Focus areas:
-- Docker fundamentals
-- Containerized backend services
-- Database integration
-- Multi-container architecture using Docker Compose
-- Optimization and production practices
+## Stack
+- Java (Spring Boot)
+- MySQL
+- Docker
 
+## Structure
+- backend: Spring Boot application
+- database: MySQL (to be added)
+- docker: container configuration
+
+## Goal
+Build a complete multi-container application with Docker, focusing on backend services, database integration, and production-ready container practices.
